@@ -1,0 +1,4 @@
+Parent entry ID	Subentry level (Proto-Language)	Subentry (reconstruciton) form	Subentry Gloss	Word (reflex) form	Word Gloss	Language ID
+27351#4	PMP	*ma-pateq	break (intr.)	pati	break (intr.)	316
+27351#4	PMP	*ma-pateq	break (intr.)	paki	break (intr.)	302
+27351#4	PMP	*ma-pateq	break (intr.)	mbata	break (intr.)	678

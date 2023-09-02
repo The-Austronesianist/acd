@@ -1,0 +1,2 @@
+Language Name	Glottocode	Glottolog_Name	ISO639P3code	ISOname	Macroarea	Latitude	Longitude	Group (Subgroup)	Location (Country)	Alias (alternative names)
+Saluan	salu1253	Saluan	loe	Saluan	Sulawesi			Celebic, Saluan-Banggai	Banggai Regency, C. Sulawesi, Indonesia	Loinang (obsolete/pejorative)

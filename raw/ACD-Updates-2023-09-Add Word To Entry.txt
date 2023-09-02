@@ -1,0 +1,41 @@
+Entry form	Entry ID	Language ID	Word Form	Gloss
+*labi	32925#s-11390	19418	labi	a large freshwater mud turtle
+*labi	32925#s-11390	1032	ləwawiʔ	softshell river turtle
+*labi	32925#s-11390	19771	ləweʔ	softshell river turtle
+*labi	32925#s-11390	290	labəy	softshell river turtle
+*pateq	27351#s-3880	418	patɨh	sprained
+*pateq	27351#s-3880	361	fatɨ	break
+*pateq	27351#s-3880	510	patoʔ	break
+*pateq	27351#s-3880	678	pata	break
+*Ratas₂	33364#s-11970	361	ota	udder
+*Raqan	27943#s-4826	361	a-oha	light (weight)
+*Ragem	30137#5	361	oxɨ	hold in clenched fist
+*Rabiqi	27923#s-9029	361	oví	tonight
+*Rusuk	30771#s-8475	361	osu	rib
+*saleR	31038#s-8977	361	salo	floor
+*qauR	27675#s-4374	361	hao	bamboo sp.
+*garis	30963#4	361	xoi	draw lines, cut into stripes
+*saRup₁	28121#s-5056	361	sou	scoop up
+*paRa₁	27325#s-3845	361	fo	rack above the hearth
+*baRaq₁	25147#s-662	361	bo	lung
+*daRaq	30287#s-7205	361	do	blood
+*duRi	30100#s-6826	361	doi	thorn
+*puRu₁	32646#s-11044	361	fou	framboesia
+*qudaŋ	27847#s-4632	361	uro	shrimp
+*qabaŋ₁	27544#s-4097	361	ovo	boat
+*qeneŋ	27737#s-4461	361	hono	quiet
+*qajeŋ	27563#s-4152	361	axo	charcoal
+*bahu	25000#s-466	361	bɨu	smell
+*lahud	30206#s-7039	361	lɨu	sea
+*aRi	24873#s-299	361	mɨu	come, go
+*buqeni	25737#s-1726	361	bɨni	ringworm
+*tuqelaŋ	30545#s-7833	361	tɨla	bone
+*betak	25367#s-1021	361	a-boto	break, burst
+*paqa₁	30397#s-7509	361	faha	thigh
+*hapejes	26289#s-2575	361	fɨxɨ	illness
+*lemes	32927#s-11392	361	a-lɨmɨ	drown
+*sa(ŋ)kep	28156#6	361	sagɨ	roof
+*dakuC	25958#4	361	raʔu	grab
+*pened₁	32777#s-11218	361	fɨnɨ	wood or grass used for a dam
+*selet	28176#s-5146	361	sɨlɨ	insert between
+*selet	28176#s-5146	427	solot	insert between
